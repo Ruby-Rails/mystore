@@ -5,6 +5,7 @@
     <ignored path="mystore.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="23bf6cff-ae6e-4497-8a66-5265b137f7ac" time="1378147549801" ignored="false" />
+    <file path="/README.rdoc" changelist="23bf6cff-ae6e-4497-8a66-5265b137f7ac" time="1378151954970" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="11" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.8744019">
+            <state line="33" column="45" selection-start="710" selection-end="710" vertical-scroll-proportion="0.67105263">
               <folding />
             </state>
           </provider>
@@ -44,6 +45,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -336,9 +338,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="36" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="11" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.8744019">
+        <state line="33" column="45" selection-start="710" selection-end="710" vertical-scroll-proportion="0.67105263">
           <folding />
         </state>
       </provider>
